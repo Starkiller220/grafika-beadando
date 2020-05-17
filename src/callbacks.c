@@ -4,7 +4,6 @@
 #include "init.h"
 #include "draw.h"
 #include "model.h"
-#include "move.h"
 
 int isHelpOn = 0;
 
